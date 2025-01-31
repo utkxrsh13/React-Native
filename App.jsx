@@ -12,7 +12,7 @@ const App = () => {
         }}
       />
       <Pressable style={{padding:10, backgroundColor:"yellow"}}>
-        <Text>Press me</Text>
+        <Text>Press</Text>
       </Pressable>
     </SafeAreaView>
   );
